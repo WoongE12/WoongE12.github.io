@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Woo seoyoon</h1>
+<h1 align="center">Hi 👋, I'm Choi hyunwoong</h1>
 <h3 align="center">BackEnd Dev</h3>
 
 - 🌱 I’m currently learning **React,Selenium**
 
-- 👨‍💻 All of my projects are available at [https://www90kr.github.io/homepage/](https://www90kr.github.io/homepage/)
+- 👨‍💻 All of my projects are available at [https://(https://)
 
-- 📝 I regularly write articles on [https://woosy.tistory.com](https://woosy.tistory.com)
+- 📝 I regularly write articles on [https://](https://woosy.tistory.com)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **www90kr@gmail.com**
+- 📫 How to reach me **coldplay__@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
