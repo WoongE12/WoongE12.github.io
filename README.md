@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://(https://)
 
-- 📝 I regularly write articles on [https://](https://woosy.tistory.com)
+- 📝 I regularly write articles on [https://](https://블로그주소)
 
 - 💬 Ask me about **Java**
 
